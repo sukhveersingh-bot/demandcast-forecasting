@@ -1,4 +1,4 @@
-# Demand Forecasting Engine for Retail
+# DemandCast — Demand Forecasting Engine for Retail
 
 Retail demand forecasting: Prophet baseline → LSTM → TFT with FastAPI serving and Streamlit dashboard.
 
@@ -6,7 +6,7 @@ Retail demand forecasting: Prophet baseline → LSTM → TFT with FastAPI servin
 
 Full problem statement, target audience, technology stack, and industry research:
 
-**https://github.com/sukhveersingh-bot/jobsim-portfolio/tree/main/docs/p5-demand-forecasting**
+**https://github.com/sukhveersingh-bot/ml-portfolio-research/tree/main/docs/p5-demand-forecasting**
 
 ## Quick start
 
@@ -21,8 +21,8 @@ Build window: Aug 26 – Sep 17, 2026 (3 weeks)
 
 ## Future enhancements
 
-Post-v1 roadmap: [FUTURE-ENHANCEMENTS.md](https://github.com/sukhveersingh-bot/jobsim-portfolio/blob/main/FUTURE-ENHANCEMENTS.md)
+Post-v1 roadmap: [FUTURE-ENHANCEMENTS.md](https://github.com/sukhveersingh-bot/ml-portfolio-research/blob/main/FUTURE-ENHANCEMENTS.md)
 
 ---
 
-*Part of the JobSIM portfolio — Veer Singh*
+*DemandCast · ML portfolio — Veer Singh*
